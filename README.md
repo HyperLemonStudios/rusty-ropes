@@ -1,2 +1,6 @@
 # Rusty Ropes
-### Is a month long school internship project of making a Undertale muffet fight inspired game. By [me](https://github.com/HyperGamesDev), and my musician friend that also made a lot of the concepts.
+### A story driven game project inspired by the Muffet fight from Undertale.
+#### Made By:
+- [HyperGamesDev - programming, management](https://hypergamesdev.github.io)
+- [Shy - art, most of the story & concepts](https://twitter.com/ShyyO_U)
+- [LidkasMaster - music](https://youtube.com/channel/UCirjVkny59kWBtNBRhKLxbw)
